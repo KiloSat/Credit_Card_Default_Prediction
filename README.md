@@ -1,5 +1,4 @@
 # Credit_Card_Default_Prediction
-A project made during Auburn Hacks 2021
 
 It consists of 3 models each with around 80% accuracy in detection of credit card defaults.
 One feeds in an excel file of customer information with the required features and gets either 'safe' or 'default' values as prediction.
